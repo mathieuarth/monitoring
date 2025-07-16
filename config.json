@@ -1,0 +1,23 @@
+﻿{
+    "Refresh":  30,
+    "show_notification":  false,
+    "CPU_Usage":  80,
+    "BrowserCache":  false,
+    "Battery":  30,
+    "LatencyServers":  [
+        {
+          "Name":  "Gateway",
+          "Address":  "@gateway@"
+        },
+        {
+          "Name":  "Dns",
+          "Address":  "@dns@",
+          "Port":  53
+        }
+        ],
+    "Darwin":  false,
+    "WiFi_Signal":  80,
+    "HDD_Usage":  80,
+    "Latency":  100,
+    "Memory_Usage":  80
+}
